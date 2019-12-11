@@ -3,7 +3,7 @@
 
 ## 项目目录
 程序目录如下：
-
+```
 ├── action_recognize:动作识别主目录
 │   ├── model:存放预训练好的动作识别模型
 │   │   ├── cnn_model_architecture.json
@@ -42,6 +42,7 @@
 ├── predict.py: Python程序，对图片进行动作识别，窗口展示
 ├── tf_pose:tf-open-pose主目录
 └── 截图:存放了一些项目截图
+```
 
 参考项目:
 - [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
