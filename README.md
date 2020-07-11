@@ -46,7 +46,7 @@
 
 参考项目:
 - [CMU-Perceptual-Computing-Lab/openpose: OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation](https://github.com/CMU-Perceptual-Computing-Lab/openpose) 
-[ildoonet/tf-pose-estimation: Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.](https://github.com/ildoonet/tf-pose-estimation)
+- [ildoonet/tf-pose-estimation: Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.](https://github.com/ildoonet/tf-pose-estimation)
 - [LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose: A skeleton-based real-time online action recognition project, classifying and recognizing base on framewise joints, which can be used for safety surveilence.](https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose)
 - [基于骨架图的实时视频行为识别系统 - 简书](https://www.jianshu.com/p/733fa86b0d8b)
 - [felixchenfy/Realtime-Action-Recognition: Multi-person real-time recognition (classification) of 9 actions based on human skeleton from OpenPose and a 0.5-second window.](https://github.com/felixchenfy/Realtime-Action-Recognition)
